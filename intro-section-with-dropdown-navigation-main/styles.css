@@ -130,6 +130,12 @@ nav{
     border: 2px solid  hsl(0, 0%, 41%);
     font-family: "Epilogue", sans-serif;
 }
+.log button:hover{
+    background-color: hsl(0, 0%, 98%);
+    border: 2px solid hsl(0, 0%, 5%);
+    color: hsl(0, 0%, 8%);
+    font-weight: 700;
+    }
 
 .hero-content{
     width: 80%;
@@ -347,8 +353,7 @@ data img{
         margin: 0 auto;
         text-align: center;
     }
-}
-
+} 
 
 
 git init
